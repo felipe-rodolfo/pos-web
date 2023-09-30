@@ -1,0 +1,55 @@
+body {
+    padding-bottom: 44px;
+    position: relative;
+}
+
+.bannerHero {
+    padding: 150px 0;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    color: #FFF;
+}
+
+.idxServices {
+    padding: 40px 0;
+}
+
+.idxServices .container {
+    gap: 10px;
+}
+
+.idxSobre {
+    color: #FFF;
+    padding: 40px 0;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(43,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.idxContato {
+    flex-direction: column;
+    margin: 40px 0;
+}
+
+.idxContato .container {
+    width: 100%;
+}
+
+.mainFooter {
+    color: #FFF;
+    padding: 10px 0;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.intro {
+    padding: 20px 0;
+    color: #FFF;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(43,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.pageSobre {
+    padding: 40px 0;
+}
